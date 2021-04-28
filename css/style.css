@@ -61,7 +61,7 @@ div.flex{
     }
 }
 @media screen and (max-width: 768px ){
-    div.flex{
+    section.conteiner div.flex{
         width: 100%;
 
     }
